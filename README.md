@@ -1,6 +1,7 @@
-# 🧠 Projeto 01 - Cibersegurança Santander+DIO 2025 — Kali Linux vs Metasploitable2 + DVWA
+## 🧠 Projeto 01 - Cibersegurança Santander+DIO 2025
+### Kali Linux vs Metasploitable2 + DVWA
 
-## 🧩 Estrutura do Laboratório
+### 🧩 Estrutura do Laboratório
 
 | Função       | Sistema                | Descrição                                  |
 | ------------ | ---------------------- | ------------------------------------------ |
@@ -9,7 +10,7 @@
 
 ---
 
-## ⚙️ Ferramentas Utilizadas
+### ⚙️ Ferramentas Utilizadas
 
 | Ferramenta     | Função                                                          |
 | -------------- | --------------------------------------------------------------- |
@@ -20,7 +21,7 @@
 
 ---
 
-## 🚀 Passo a Passo
+### 🚀 Passo a Passo
 
 ### 🔹 Fase 1: Reconhecimento
 
